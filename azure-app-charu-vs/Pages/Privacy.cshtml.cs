@@ -14,6 +14,7 @@ namespace azure_app_charu_vs.Pages
 
         public void OnGet()
         {
+            
         }
     }
 }
